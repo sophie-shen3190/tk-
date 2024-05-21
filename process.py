@@ -1,4 +1,4 @@
-#可以正常爬取tk数据
+#可以正常爬取tk数据——正确版本
 
 import psutil
 import os
